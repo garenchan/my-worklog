@@ -53,6 +53,6 @@ the_secret:
 [org 0x7c00]
 ```
 
-继续并打开`**boot_sect_memory_org.asm**`，你将看到使用引导扇区打印数据的规范方式，
+继续并打开**`boot_sect_memory_org.asm`**，你将看到使用引导扇区打印数据的规范方式，
 也就是现在的`attempt 2`。编译代码并运行它，你将看到`org`命令是如何影响之前的每个解
 决方案的。

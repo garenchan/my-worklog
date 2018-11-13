@@ -23,6 +23,9 @@
 - mpfr
 - libmpc
 - gcc
+- g++
+
+Ubuntu上的安装方法为：`apt install -y --force-yes libgmp-dev libmpfr-dev libmpc-dev gcc g++`
 
 是的，我们将需要`gcc`来构建我们的交叉编译的`gcc`，特别是在gcc被弃用为`clang`的Mac上。
 
@@ -68,8 +71,8 @@ tar xf gcc-4.9.1.tar.bz2
 mkdir gcc-build
 cd gcc-build
 ../gcc-4.9.1/configure --target=$TARGET --prefix="$PREFIX" --disable-nls --disable-libssp --enable-languages=c --without-headers
-make all-gcc 
-make all-target-libgcc 
+make all-gcc
+make all-target-libgcc
 make install-gcc 
 make install-target-libgcc
 ```

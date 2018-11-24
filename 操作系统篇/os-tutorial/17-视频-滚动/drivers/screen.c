@@ -1,5 +1,6 @@
 #include "screen.h"
 #include "ports.h"
+#include "../kernel/util.h"
 
 /* 声明私有函数 */
 int get_cursor_offset();
@@ -88,6 +89,22 @@ int print_char(char c, int col, int row, char attr) {
         vidmem[offset + 1] = attr;
         offset += 2;
     }
+
+    /* 检查偏移量是否超过屏幕大小并滚动 */
+    if (offset >= MAX_ROWS * MAX_COLS * 2) {
+        int i;
+        for (i = 1; i < MAX_ROWS; ++i) {
+            memory_copy(get_offset(0, i) + VIDEO_ADDRESS,
+                        get_offset(0, i - 1) + VIDEO_ADDRESS,
+                        MAX_COLS * 2);
+        }
+        /* 最后的空白行 */
+        char *last_line = get_offset(0, MAX_ROWS - 1) + VIDEO_ADDRESS;
+        for (i = 0; i < MAX_COLS * 2; ++i) last_line[i] = '\0';
+        
+        offset -= 2 * MAX_COLS;
+    }
+
     set_cursor_offset(offset);
     return offset;
 }
@@ -115,4 +132,4 @@ void set_cursor_offset(int offset) {
 
 int get_offset(int col, int row) { return 2 * (row * MAX_COLS + col); }
 int get_offset_row(int offset) { return offset / (2 * MAX_COLS); }
-int get_offset_col(int offset) { return (offset - get_offset_row(offset) * 2 * MAX_COLS) / 2; }
+int get_offset_col(int offset) { return (offset - get_offset_row(offset) *2 *MAX_COLS)/2; }

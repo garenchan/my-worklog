@@ -27,7 +27,7 @@ load_kernel:
     call print_nl
 
     mov bx, KERNEL_OFFSET ; 从磁盘读取并存储在0x1000处
-    mov dh, 2
+    mov dh, 16 ; 我们的内核会变得更大，因此让这个值也随之增大
     mov dl, [BOOT_DRIVE]
     call disk_load
     ret

@@ -81,7 +81,7 @@ int print_char(char c, int col, int row, char attr) {
     else offset = get_cursor_offset();
 
     if (c == '\n') {
-        row = get_cursor_offset(offset);
+        row = get_offset_row(offset);
         offset = get_offset(0, row + 1);
     } else {
         vidmem[offset] = c;

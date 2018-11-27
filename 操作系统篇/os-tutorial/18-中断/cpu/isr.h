@@ -43,9 +43,9 @@ typedef struct {
     u32 edi, esi, ebp, esp, ebx, edx, ecx, eax; /* pusha推入的 */
     u32 int_no, err_code; /* 中断号和错误代码（如果适用）*/
     u32 eip, cs, eflags, usersep, ss; /* 处理器自动推入的 */
-} register_t;
+} registers_t;
 
 void isr_install();
-void isr_handler(register_t r);
+void isr_handler(registers_t r);
 
 #endif

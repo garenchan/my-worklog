@@ -1,7 +1,9 @@
+#include "ports.h"
+
 /**
  * 从指定端口读取一个字节
  */
-unsigned char port_byte_in (unsigned short port) {
+u8 port_byte_in (u16 port) {
     unsigned char result;
     /* 内联汇编定义
      * !! 注意与NASM不同的是，源寄存器和目的寄存器的顺序被交换了
@@ -15,7 +17,7 @@ unsigned char port_byte_in (unsigned short port) {
      return result;
 }
 
-void port_byte_out (unsigned short port, unsigned char data) {
+void port_byte_out (u16 port, u8 data) {
     /* 注意这里的2个寄存器都被映射到C变量，并且没有返回任何东西，因此
      * 在汇编定义中没有出现'='。
      * 但是我们看到了一个逗号，因为输入区有两个变量，在“返回”区域内
@@ -24,12 +26,12 @@ void port_byte_out (unsigned short port, unsigned char data) {
     __asm__("out %%al, %%dx" : : "a" (data), "d" (port));
 }
 
-unsigned short port_word_in (unsigned short port) {
+u16 port_word_in (u16 port) {
     unsigned short result;
     __asm__("in %%dx, %%ax" : "=a" (result) : "d" (port));
     return result;
 }
 
-void port_word_out (unsigned short port, unsigned short data) {
+void port_word_out (u16 port, u16 data) {
     __asm__("out %%ax, %%dx" : : "a" (data), "d" (port));
 }

@@ -1,15 +1,4 @@
-#include "util.h"
-
-void memory_copy(u8 *source, u8 *dest, int nbytes) {
-    int i;
-    for (i = 0; i < nbytes; ++i) {
-        *(dest + i) = *(source + i);
-    }
-}
-
-void memory_set(u8 *dest, u8 val, u32 len) {
-    for ( ; len != 0; --len) *dest++ = val;
-}
+#include "string.h"
 
 /* K&R */
 void int_to_ascii(int n, char str[]) {
@@ -43,4 +32,27 @@ int strlen(char s[]) {
     if (s == 0) return i;
     while (s[i] != '\0') ++i;
     return i;
+}
+
+void append(char s[], char n) {
+    int len = strlen(s);
+    s[len] = n;
+    s[len + 1] = '\0';
+}
+
+void backspace(char s[]) {
+    int len = strlen(s);
+    s[len - 1] = '\0';
+}
+
+/* K&R
+ * 如果s1 < s2，返回小于0的值；
+ * 如果s1 == s2，返回0；
+ * 如果s1 > s2，返回值大于0 */
+int strcmp(char s1[], char s2[]) {
+    int i;
+    for (i = 0; s1[i] == s2[i]; ++i) {
+        if (s1[i] == '\0') return 0;
+    }
+    return s1[i] - s2[i];
 }

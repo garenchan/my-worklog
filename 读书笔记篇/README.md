@@ -12,6 +12,8 @@
 
 - [淘宝高可用高伸缩高性能框架之实现](https://cloud.tencent.com/developer/article/1082077)
 
+- [EDAS微服务应用同城容灾最佳实践](https://segmentfault.com/a/1190000039169424)
+
 ## 系统架构
 
 - [淘宝双11，亿级流量高并发是怎么抗住的？看完这篇你就明白了!](https://cloud.tencent.com/developer/article/1539546)

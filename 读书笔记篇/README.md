@@ -35,6 +35,10 @@
 
 - [为什么要做多活？饿了么多活技术架构及运维挑战](https://mp.weixin.qq.com/s/0k1iuAlVoaBAjcwyB4Z_sA)
 
+- [一个云原生双活架构方案](https://jishuin.proginn.com/p/763bfbd64290)
+
+- [超 3 亿活跃用户的多活架构，数据同步与流量调度怎么做？](https://www.infoq.cn/article/ruvl9xsfb0tgpxcfbjhh)
+
 
 ## 系统架构
 

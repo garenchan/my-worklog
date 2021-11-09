@@ -39,7 +39,15 @@
 
 - [超 3 亿活跃用户的多活架构，数据同步与流量调度怎么做？](https://www.infoq.cn/article/ruvl9xsfb0tgpxcfbjhh)
 
+- [异地多活设计4步走](https://time.geekbang.org/column/article/10204)
+
 
 ## 系统架构
+
+- [架构到底是指什么？](https://time.geekbang.org/column/article/6458)
+
+- [架构设计的目的](https://time.geekbang.org/column/article/6472)
+
+- [复杂度来源：高性能](https://time.geekbang.org/column/article/6605)
 
 - [淘宝双11，亿级流量高并发是怎么抗住的？看完这篇你就明白了!](https://cloud.tencent.com/developer/article/1539546)

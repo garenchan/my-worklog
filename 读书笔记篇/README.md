@@ -41,6 +41,8 @@
 
 - [异地多活设计4步走](https://time.geekbang.org/column/article/10204)
 
+- [Redis 高可用篇：图解 Redis 哨兵集群原理](https://xie.infoq.cn/article/1c714709d00b2b55e8416fb99)
+
 
 ## 系统架构
 

@@ -43,6 +43,10 @@
 
 - [Redis 高可用篇：图解 Redis 哨兵集群原理](https://xie.infoq.cn/article/1c714709d00b2b55e8416fb99)
 
+- [详解：淘宝高可用异地多活架构](https://cloud.tencent.com/developer/article/1754643)
+
+- [单元化介绍](https://help.aliyun.com/document_detail/159741.html)
+
 
 ## 系统架构
 

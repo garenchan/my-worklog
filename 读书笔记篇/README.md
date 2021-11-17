@@ -47,6 +47,14 @@
 
 - [单元化介绍](https://help.aliyun.com/document_detail/159741.html)
 
+- [四步构建异地多活](https://www.infoq.cn/article/gqyk1h46thu4mbqpardw)
+
+- [腾讯云高可用和容灾解决方案](https://www.infoq.cn/article/5cowmbypkmyp5ocjvbsm)
+
+- [DTCC 2020 | 阿里云张鑫：阿里云云原生异地多活解决方案](https://segmentfault.com/a/1190000038976143)
+
+- [多活容灾最佳实践](https://help.aliyun.com/document_detail/187500.html)
+
 
 ## 系统架构
 

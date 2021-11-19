@@ -55,6 +55,8 @@
 
 - [多活容灾最佳实践](https://help.aliyun.com/document_detail/187500.html)
 
+- [云原生高可用技术体系的构建](https://developer.aliyun.com/article/768244)
+
 
 ## 系统架构
 

@@ -67,3 +67,10 @@
 - [复杂度来源：高性能](https://time.geekbang.org/column/article/6605)
 
 - [淘宝双11，亿级流量高并发是怎么抗住的？看完这篇你就明白了!](https://cloud.tencent.com/developer/article/1539546)
+
+## Google
+
+- [High-Availability at Massive Scale: Building
+Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44686.pdf)
+
+- [Maglev: A Fast and Reliable Software Network Load Balancer](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44824.pdf)

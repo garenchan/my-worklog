@@ -68,6 +68,10 @@
 
 - [淘宝双11，亿级流量高并发是怎么抗住的？看完这篇你就明白了!](https://cloud.tencent.com/developer/article/1539546)
 
+## DNS
+
+- [当记录值有多个IP地址时，域名是如何解析的？](https://support.huaweicloud.com/dns_faq/dns_faq_023.html)
+
 ## Google
 
 - [High-Availability at Massive Scale: Building

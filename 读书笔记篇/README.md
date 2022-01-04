@@ -1,5 +1,12 @@
 # 读书笔记
 
+## Google
+
+- [High-Availability at Massive Scale: Building
+Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44686.pdf)
+
+- [Maglev: A Fast and Reliable Software Network Load Balancer](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44824.pdf)
+
 
 ## 高可用
 
@@ -70,11 +77,16 @@
 
 ## DNS
 
+- [什么是 DNS？](https://www.cloudflare.com/zh-cn/learning/dns/what-is-dns/)
+
 - [当记录值有多个IP地址时，域名是如何解析的？](https://support.huaweicloud.com/dns_faq/dns_faq_023.html)
 
-## Google
+- [Multiple DNS](https://www.ntchosting.com/encyclopedia/dns/multiple-dns/)
 
-- [High-Availability at Massive Scale: Building
-Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44686.pdf)
+- [一个域名如果对应多个IP，那么实际访问这个域名会访问到哪个IP哪台服务器呢？](https://www.zhihu.com/question/36891472)
 
-- [Maglev: A Fast and Reliable Software Network Load Balancer](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44824.pdf)
+- [基于DNS解析的GSLB《CDN技术详解》](https://www.shangmayuan.com/a/83a4caa132924eaa8a237f34.html)
+
+## ElasticSearch
+
+- [Elasticsearch Distributed Consistency Principles Analysis (3) - Data](https://www.alibabacloud.com/blog/elasticsearch-distributed-consistency-principles-analysis-3---data_594360)

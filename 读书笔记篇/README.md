@@ -92,3 +92,5 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [Elasticsearch Distributed Consistency Principles Analysis (3) - Data](https://www.alibabacloud.com/blog/elasticsearch-distributed-consistency-principles-analysis-3---data_594360)
 
 - [如何对 ElasticSearch 集群进行压力测试](https://segmentfault.com/a/1190000023532569)
+
+- [ElasticSearch Rally 离线使用](http://esrally.lyremelody.org/zh_CN/latest/offline.html)

@@ -94,3 +94,7 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [如何对 ElasticSearch 集群进行压力测试](https://segmentfault.com/a/1190000023532569)
 
 - [ElasticSearch Rally 离线使用](http://esrally.lyremelody.org/zh_CN/latest/offline.html)
+
+## ZooKeeper
+
+- [ZooKeeper集群架构以及读写原理](https://www.sparksys.top/archives/24)

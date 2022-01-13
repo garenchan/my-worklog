@@ -87,6 +87,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [基于DNS解析的GSLB《CDN技术详解》](https://www.shangmayuan.com/a/83a4caa132924eaa8a237f34.html)
 
+- [DNS 原理入门](https://www.ruanyifeng.com/blog/2016/06/dns.html)
+
 ## ElasticSearch
 
 - [Elasticsearch Distributed Consistency Principles Analysis (3) - Data](https://www.alibabacloud.com/blog/elasticsearch-distributed-consistency-principles-analysis-3---data_594360)

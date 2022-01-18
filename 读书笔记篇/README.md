@@ -100,3 +100,9 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 ## ZooKeeper
 
 - [ZooKeeper集群架构以及读写原理](https://www.sparksys.top/archives/24)
+
+## 分布式存储
+
+- [MinIO白皮书](http://www.cloudbin.cn/?p=2917)
+
+- [SeaweedFS wiki](https://github.com/chrislusf/seaweedfs/wiki)

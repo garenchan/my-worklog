@@ -105,4 +105,6 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [MinIO白皮书](http://www.cloudbin.cn/?p=2917)
 
+- [什么是MinIO对象存储？看这一篇就够了！](https://www.eet-china.com/mp/a15865.html)
+
 - [SeaweedFS wiki](https://github.com/chrislusf/seaweedfs/wiki)

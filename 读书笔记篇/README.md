@@ -64,6 +64,7 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [云原生高可用技术体系的构建](https://developer.aliyun.com/article/768244)
 
+- [MySQL High Availability at GitHub](https://github.blog/2018-06-20-mysql-high-availability-at-github/)
 
 ## 系统架构
 

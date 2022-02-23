@@ -66,6 +66,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [MySQL High Availability at GitHub](https://github.blog/2018-06-20-mysql-high-availability-at-github/)
 
+- [MySQL Replication and HA at Facebook Part-II](https://www.percona.com/live/19/sites/default/files/slides/MySQL%20Replication%20and%20HA%20at%20Facebook%20-%20Part%202%20-%20FileId%20-%20187303.pdf)
+
 ## 系统架构
 
 - [架构到底是指什么？](https://time.geekbang.org/column/article/6458)

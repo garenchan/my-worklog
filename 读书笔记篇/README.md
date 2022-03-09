@@ -72,6 +72,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [腾讯云-云数据库 MariaDB产品简介](https://main.qcloudimg.com/raw/document/intl/product/pdf/237_602_zh.pdf)
 
+- [Alibaba Cloud High Availability Solution](https://alicloud-common.oss-ap-southeast-1.aliyuncs.com/2021/Whitepaper/Alibaba%20Cloud%20solution%20High%20availability%20solution%2020210322-updated.pdf)
+
 ## 系统架构
 
 - [架构到底是指什么？](https://time.geekbang.org/column/article/6458)

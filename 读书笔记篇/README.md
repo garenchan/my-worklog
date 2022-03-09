@@ -70,6 +70,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [美团数据库高可用架构的演进与设想](https://tech.meituan.com/2017/06/29/database-availability-architecture.html)
 
+- [腾讯云-云数据库 MariaDB产品简介](https://main.qcloudimg.com/raw/document/intl/product/pdf/237_602_zh.pdf)
+
 ## 系统架构
 
 - [架构到底是指什么？](https://time.geekbang.org/column/article/6458)

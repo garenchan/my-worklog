@@ -84,6 +84,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [淘宝双11，亿级流量高并发是怎么抗住的？看完这篇你就明白了!](https://cloud.tencent.com/developer/article/1539546)
 
+- [Apache架构师总结的30条架构原则](https://mp.weixin.qq.com/s/BqyKbFBJ8GXkqd8ZBDeqsQ)
+
 ## DNS
 
 - [什么是 DNS？](https://www.cloudflare.com/zh-cn/learning/dns/what-is-dns/)

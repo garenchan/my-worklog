@@ -86,6 +86,10 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Apache架构师总结的30条架构原则](https://mp.weixin.qq.com/s/BqyKbFBJ8GXkqd8ZBDeqsQ)
 
+## DDD领域驱动设计
+
+- [跨越DDD从理论到工程落地的鸿沟](https://mp.weixin.qq.com/s/sMzbU_kQF7rwMCqo6lspuw)
+
 ## DNS
 
 - [什么是 DNS？](https://www.cloudflare.com/zh-cn/learning/dns/what-is-dns/)

@@ -86,6 +86,10 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Apache架构师总结的30条架构原则](https://mp.weixin.qq.com/s/BqyKbFBJ8GXkqd8ZBDeqsQ)
 
+## Cloud Native(云原生)
+
+- [云原生时代——投资人视角下的云原生趋势思考](https://cloudnative.to/blog/cloud-native-era/)
+
 ## DDD领域驱动设计
 
 - [跨越DDD从理论到工程落地的鸿沟](https://mp.weixin.qq.com/s/sMzbU_kQF7rwMCqo6lspuw)

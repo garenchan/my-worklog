@@ -90,6 +90,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [云原生时代——投资人视角下的云原生趋势思考](https://cloudnative.to/blog/cloud-native-era/)
 
+- [研发效能度量引发的血案](https://cloudnative.to/blog/murder-case-triggered-by-rd-efficiency-measurement/)
+
 ## DDD领域驱动设计
 
 - [跨越DDD从理论到工程落地的鸿沟](https://mp.weixin.qq.com/s/sMzbU_kQF7rwMCqo6lspuw)

@@ -1,11 +1,47 @@
 # 读书笔记
 
+
+## 系统架构
+
+- [架构到底是指什么？](https://time.geekbang.org/column/article/6458)
+
+- [架构设计的目的](https://time.geekbang.org/column/article/6472)
+
+- [复杂度来源：高性能](https://time.geekbang.org/column/article/6605)
+
+- [淘宝双11，亿级流量高并发是怎么抗住的？看完这篇你就明白了!](https://cloud.tencent.com/developer/article/1539546)
+
+- [Apache架构师总结的30条架构原则](https://mp.weixin.qq.com/s/BqyKbFBJ8GXkqd8ZBDeqsQ)
+
+
 ## Google
 
 - [High-Availability at Massive Scale: Building
 Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44686.pdf)
 
 - [Maglev: A Fast and Reliable Software Network Load Balancer](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44824.pdf)
+
+
+## Cloud Native(云原生)
+
+- [云原生时代——投资人视角下的云原生趋势思考](https://cloudnative.to/blog/cloud-native-era/)
+
+- [研发效能度量引发的血案](https://cloudnative.to/blog/murder-case-triggered-by-rd-efficiency-measurement/)
+
+
+## DDD(领域驱动设计)
+
+- [跨越DDD从理论到工程落地的鸿沟](https://mp.weixin.qq.com/s/sMzbU_kQF7rwMCqo6lspuw)
+
+
+## Kubernetes
+
+- [深度解密｜基于 eBPF 的 Kubernetes 问题排查全景图发布](https://mp.weixin.qq.com/s/ggt-aCHSvhmfwz8-fFHN6w)
+
+
+## 分布式系统
+
+- [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/)
 
 
 ## 高可用
@@ -74,27 +110,6 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Alibaba Cloud High Availability Solution](https://alicloud-common.oss-ap-southeast-1.aliyuncs.com/2021/Whitepaper/Alibaba%20Cloud%20solution%20High%20availability%20solution%2020210322-updated.pdf)
 
-## 系统架构
-
-- [架构到底是指什么？](https://time.geekbang.org/column/article/6458)
-
-- [架构设计的目的](https://time.geekbang.org/column/article/6472)
-
-- [复杂度来源：高性能](https://time.geekbang.org/column/article/6605)
-
-- [淘宝双11，亿级流量高并发是怎么抗住的？看完这篇你就明白了!](https://cloud.tencent.com/developer/article/1539546)
-
-- [Apache架构师总结的30条架构原则](https://mp.weixin.qq.com/s/BqyKbFBJ8GXkqd8ZBDeqsQ)
-
-## Cloud Native(云原生)
-
-- [云原生时代——投资人视角下的云原生趋势思考](https://cloudnative.to/blog/cloud-native-era/)
-
-- [研发效能度量引发的血案](https://cloudnative.to/blog/murder-case-triggered-by-rd-efficiency-measurement/)
-
-## DDD领域驱动设计
-
-- [跨越DDD从理论到工程落地的鸿沟](https://mp.weixin.qq.com/s/sMzbU_kQF7rwMCqo6lspuw)
 
 ## DNS
 
@@ -110,6 +125,7 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [DNS 原理入门](https://www.ruanyifeng.com/blog/2016/06/dns.html)
 
+
 ## ElasticSearch
 
 - [Elasticsearch Distributed Consistency Principles Analysis (3) - Data](https://www.alibabacloud.com/blog/elasticsearch-distributed-consistency-principles-analysis-3---data_594360)
@@ -118,9 +134,11 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [ElasticSearch Rally 离线使用](http://esrally.lyremelody.org/zh_CN/latest/offline.html)
 
+
 ## ZooKeeper
 
 - [ZooKeeper集群架构以及读写原理](https://www.sparksys.top/archives/24)
+
 
 ## 分布式存储
 
@@ -130,10 +148,7 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [SeaweedFS wiki](https://github.com/chrislusf/seaweedfs/wiki)
 
+
 ## gRPC
 
 - [从gRPC安全设计理解双向证书方案](https://cloud.tencent.com/developer/article/1745268)
-
-## Kubernetes
-
-- [深度解密｜基于 eBPF 的 Kubernetes 问题排查全景图发布](https://mp.weixin.qq.com/s/ggt-aCHSvhmfwz8-fFHN6w)

@@ -149,6 +149,11 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [SeaweedFS wiki](https://github.com/chrislusf/seaweedfs/wiki)
 
 
+## Golang
+
+- [Golang 调度器和 GMP 模型](https://segmentfault.com/a/1190000040080290)
+
+
 ## gRPC
 
 - [从gRPC安全设计理解双向证书方案](https://cloud.tencent.com/developer/article/1745268)

@@ -115,6 +115,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Alibaba Cloud High Availability Solution](https://alicloud-common.oss-ap-southeast-1.aliyuncs.com/2021/Whitepaper/Alibaba%20Cloud%20solution%20High%20availability%20solution%2020210322-updated.pdf)
 
+- [VRRP/VRRPE协议简介](http://www.h3c.com/cn/d_201510/922082_30005_0.htm)
+
 
 ## DNS
 

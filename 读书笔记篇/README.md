@@ -39,6 +39,11 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [深度解密｜基于 eBPF 的 Kubernetes 问题排查全景图发布](https://mp.weixin.qq.com/s/ggt-aCHSvhmfwz8-fFHN6w)
 
 
+## eBPF
+
+- [eBPF 技术简介](https://cloudnative.to/blog/bpf-intro/)
+
+
 ## 分布式系统
 
 - [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/)

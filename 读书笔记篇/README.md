@@ -117,6 +117,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [VRRP/VRRPE协议简介](http://www.h3c.com/cn/d_201510/922082_30005_0.htm)
 
+- [VRRP协议介绍](https://developer.aliyun.com/article/238503)
+
 
 ## DNS
 

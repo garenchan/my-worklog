@@ -120,6 +120,11 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [VRRP协议介绍](https://developer.aliyun.com/article/238503)
 
 
+## 运维监控
+
+- [基于 Prometheus 的云上 MySQL 监控实践](https://www.51cto.com/article/616822.html)
+
+
 ## DNS
 
 - [什么是 DNS？](https://www.cloudflare.com/zh-cn/learning/dns/what-is-dns/)

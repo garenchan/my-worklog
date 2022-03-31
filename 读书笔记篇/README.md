@@ -167,6 +167,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Golang 调度器和 GMP 模型](https://segmentfault.com/a/1190000040080290)
 
+- [Go 工程化社区实践](https://mp.weixin.qq.com/s/vHkrgM8lfFQ6stCWH0tnTg)
+
 
 ## gRPC
 

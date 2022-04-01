@@ -124,6 +124,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [基于 Prometheus 的云上 MySQL 监控实践](https://www.51cto.com/article/616822.html)
 
+- [Envoy service mesh、Prometheus和Grafana下的微服务监控](https://cloudnative.to/blog/microservices-monitoring-with-envoy-service-mesh-prometheus-grafana/)
+
 
 ## DNS
 

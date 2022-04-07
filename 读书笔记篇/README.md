@@ -50,6 +50,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/)
 
+- [[译][论文]Raft共识算法(及etcd/raft源码解析)(USENIX, 2014)](http://arthurchiao.art/blog/raft-paper-zh/)
+
 
 ## 高可用
 

@@ -52,6 +52,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [[译][论文]Raft共识算法(及etcd/raft源码解析)(USENIX, 2014)](http://arthurchiao.art/blog/raft-paper-zh/)
 
+- [寻找一种易于理解的一致性算法（扩展版）](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
+
 
 ## 高可用
 

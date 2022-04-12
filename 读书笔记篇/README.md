@@ -176,6 +176,11 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [SeaweedFS wiki](https://github.com/chrislusf/seaweedfs/wiki)
 
 
+## Ignite
+
+- [苏宁11.11：基于Apache Ignite日均十亿数据对账实践应用](https://www.infoq.cn/article/pylp47meo*y96nk5bjtp)
+
+
 ## Golang
 
 - [Golang 调度器和 GMP 模型](https://segmentfault.com/a/1190000040080290)

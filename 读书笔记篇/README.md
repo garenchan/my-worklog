@@ -1,6 +1,11 @@
 # 读书笔记
 
 
+## 工作生活
+
+- [亚马逊首席科学家李沐博士：工作五年反思](https://mp.weixin.qq.com/s/k7dr4dkgQo5SwHygouIBiQ)
+
+
 ## 系统架构
 
 - [架构到底是指什么？](https://time.geekbang.org/column/article/6458)

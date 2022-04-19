@@ -33,6 +33,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [研发效能度量引发的血案](https://cloudnative.to/blog/murder-case-triggered-by-rd-efficiency-measurement/)
 
+- [The Twelve-Factor App](https://12factor.net/zh_cn/)
+
 
 ## DDD(领域驱动设计)
 

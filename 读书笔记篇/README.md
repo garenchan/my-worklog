@@ -194,6 +194,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Go 工程化社区实践](https://mp.weixin.qq.com/s/vHkrgM8lfFQ6stCWH0tnTg)
 
+- [golang pprof 实战](https://blog.wolfogre.com/posts/go-ppof-practice/)
+
 
 ## gRPC
 

@@ -47,6 +47,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [阿里巴巴云原生混部系统 Koordinator 正式开源](https://mp.weixin.qq.com/s/QpDuHCSTwwnYqSShHrG_tA)
 
+- [Kubernetes 多集群方案 Cilium Cluster Mesh 使用](https://mp.weixin.qq.com/s/P8NntzHi291F9n0ow7QpmQ)
+
 
 ## eBPF
 

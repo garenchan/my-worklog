@@ -214,3 +214,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [300来行代码带你实现一个能跑的最小Linux文件系统](https://cloud.tencent.com/developer/article/1497058)
 
 - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
+
+
+## Linux内核
+
+- [Linux内核源码分析：基于最新的Linux 4.0内核（学习路线总结）](https://xie.infoq.cn/article/20645f8f6a16b56aa267d34bd)

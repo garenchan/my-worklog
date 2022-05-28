@@ -219,3 +219,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 ## Linux内核
 
 - [Linux内核源码分析：基于最新的Linux 4.0内核（学习路线总结）](https://xie.infoq.cn/article/20645f8f6a16b56aa267d34bd)
+
+
+## AI
+
+- [产品经理的人工智能学习库 - easyAI](https://easyai.tech/)

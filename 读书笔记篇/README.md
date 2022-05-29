@@ -224,3 +224,5 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 ## AI
 
 - [产品经理的人工智能学习库 - easyAI](https://easyai.tech/)
+
+- [深度学习如何入门？](https://www.zhihu.com/question/26006703)

@@ -19,6 +19,11 @@
 - [Apache架构师总结的30条架构原则](https://mp.weixin.qq.com/s/BqyKbFBJ8GXkqd8ZBDeqsQ)
 
 
+## 技术
+
+- [如何写出一篇好的技术方案？](https://mp.weixin.qq.com/s/pHW7VGxA_tpApTwDbqOWQQ)
+
+
 ## Google
 
 - [High-Availability at Massive Scale: Building

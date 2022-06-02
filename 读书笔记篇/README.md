@@ -162,6 +162,11 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [DNS 原理入门](https://www.ruanyifeng.com/blog/2016/06/dns.html)
 
 
+## MySQL
+
+- [MySQL binlog_ignore_db 参数最全解析](https://segmentfault.com/a/1190000038378921)
+
+
 ## ElasticSearch
 
 - [Elasticsearch Distributed Consistency Principles Analysis (3) - Data](https://www.alibabacloud.com/blog/elasticsearch-distributed-consistency-principles-analysis-3---data_594360)

@@ -220,6 +220,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 
+- [Linux虚拟文件系统源码分析](https://mickyching.github.io/kernel/linux-vfs-source-annotation.html)
+
 
 ## Linux内核
 

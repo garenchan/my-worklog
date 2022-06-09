@@ -234,6 +234,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Linux内核源码分析：基于最新的Linux 4.0内核（学习路线总结）](https://xie.infoq.cn/article/20645f8f6a16b56aa267d34bd)
 
+- [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf)
+
 
 ## AI
 

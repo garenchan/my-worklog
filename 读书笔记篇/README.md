@@ -139,6 +139,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [VRRP协议介绍](https://developer.aliyun.com/article/238503)
 
+- [VRRP技术白皮书](http://www.h3c.com/cn/d_200802/335873_30003_0.htm)
+
 
 ## 运维监控
 

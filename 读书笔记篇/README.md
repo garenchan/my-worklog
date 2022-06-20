@@ -238,6 +238,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf)
 
+- [为什么要有虚拟内存？](https://xiaolincoding.com/os/3_memory/vmem.html#%E5%86%85%E5%AD%98%E5%88%86%E6%AE%B5)
+
 
 ## AI
 

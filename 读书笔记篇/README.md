@@ -68,6 +68,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [寻找一种易于理解的一致性算法（扩展版）](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
 
+- [raft可视化](http://thesecretlivesofdata.com/raft/)
+
 
 ## 高可用
 

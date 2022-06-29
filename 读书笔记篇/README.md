@@ -170,6 +170,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [MySQL binlog_ignore_db 参数最全解析](https://segmentfault.com/a/1190000038378921)
 
+- [过去5年，PolarDB云原生数据库是如何进行性能优化的？](https://mp.weixin.qq.com/s/pHMUlZdEHeQEz83xGZhYlQ)
+
 
 ## ElasticSearch
 

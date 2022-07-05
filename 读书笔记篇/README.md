@@ -54,6 +54,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Kubernetes 多集群方案 Cilium Cluster Mesh 使用](https://mp.weixin.qq.com/s/P8NntzHi291F9n0ow7QpmQ)
 
+- [一文读懂容器存储接口CSI](https://developer.aliyun.com/article/783464)
+
 
 ## eBPF
 

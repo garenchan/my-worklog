@@ -145,6 +145,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [VRRP技术白皮书](http://www.h3c.com/cn/d_200802/335873_30003_0.htm)
 
+- [同城双活-概述篇](https://www.modb.pro/db/52908)
+
 
 ## 运维监控
 

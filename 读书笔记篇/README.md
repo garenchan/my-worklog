@@ -204,6 +204,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [SeaweedFS wiki](https://github.com/chrislusf/seaweedfs/wiki)
 
+- [f4: Facebook’s Warm BLOB Storage System](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-muralidhar.pdf)
+
 
 ## Ignite
 

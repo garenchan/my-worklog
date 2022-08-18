@@ -56,6 +56,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [一文读懂容器存储接口CSI](https://developer.aliyun.com/article/783464)
 
+- [浅析CSI工作原理](https://juejin.cn/post/6983905267687620615)
+
 
 ## eBPF
 

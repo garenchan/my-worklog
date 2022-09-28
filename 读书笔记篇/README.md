@@ -58,6 +58,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [浅析CSI工作原理](https://juejin.cn/post/6983905267687620615)
 
+- [JuiceFS CSI Driver 的最佳实践](https://juicefs.com/zh-cn/blog/engineering/csi-driver-best-practices/)
+
 
 ## eBPF
 

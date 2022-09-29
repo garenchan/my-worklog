@@ -60,6 +60,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [JuiceFS CSI Driver 的最佳实践](https://juicefs.com/zh-cn/blog/engineering/csi-driver-best-practices/)
 
+- [谈谈k8s1.12新特性--Mount propagation(挂载命名空间的传播)](https://segmentfault.com/a/1190000016567617)
+
 
 ## eBPF
 

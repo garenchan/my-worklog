@@ -153,6 +153,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [同城双活-概述篇](https://www.modb.pro/db/52908)
 
+- [淘宝Tengine--易运维的高性能Nginx服务器](http://tengine.taobao.org/download/programmer-201209-Tengine.pdf)
+
 
 ## 运维监控
 

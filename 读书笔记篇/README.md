@@ -238,6 +238,11 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [从gRPC安全设计理解双向证书方案](https://cloud.tencent.com/developer/article/1745268)
 
 
+## 哈希表
+
+- [Paper Reading：HotRing——哈希冲突中热点数据高效读取方案](https://jiekun.dev/posts/hotring/)
+
+
 ## 网络
 
 - [TCP BBR 拥塞控制算法成倍提升访问速度背后原理](https://mp.weixin.qq.com/s/tM0RHCnCGbctXl3EDSaSNQ)

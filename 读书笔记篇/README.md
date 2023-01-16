@@ -184,6 +184,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [过去5年，PolarDB云原生数据库是如何进行性能优化的？](https://mp.weixin.qq.com/s/pHMUlZdEHeQEz83xGZhYlQ)
 
+- [我，PolarDB云原生数据库，5年来实现这些重磅技术创新](https://developer.aliyun.com/article/1007898?tlog=yuekan_2022)
+
 
 ## ElasticSearch
 

@@ -187,6 +187,11 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [我，PolarDB云原生数据库，5年来实现这些重磅技术创新](https://developer.aliyun.com/article/1007898?tlog=yuekan_2022)
 
 
+## Etcd
+
+- [深度复盘-重启 etcd 引发的异常](https://mp.weixin.qq.com/s/2uH7IzxYlAnnj5K1ULueMQ)
+
+
 ## ElasticSearch
 
 - [Elasticsearch Distributed Consistency Principles Analysis (3) - Data](https://www.alibabacloud.com/blog/elasticsearch-distributed-consistency-principles-analysis-3---data_594360)

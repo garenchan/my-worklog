@@ -76,6 +76,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/)
 
+- [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
+
 - [[译][论文]Raft共识算法(及etcd/raft源码解析)(USENIX, 2014)](http://arthurchiao.art/blog/raft-paper-zh/)
 
 - [寻找一种易于理解的一致性算法（扩展版）](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)

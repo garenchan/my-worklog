@@ -84,6 +84,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [raft可视化](http://thesecretlivesofdata.com/raft/)
 
+- [一致性算法-Gossip协议详解](https://cloud.tencent.com/developer/article/1662426)
+
 
 ## 高可用
 

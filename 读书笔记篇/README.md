@@ -292,3 +292,5 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [产品经理的人工智能学习库 - easyAI](https://easyai.tech/)
 
 - [深度学习如何入门？](https://www.zhihu.com/question/26006703)
+
+- [利用ChatGPT进行情感分析](https://cloud.tencent.com/developer/article/2255215)

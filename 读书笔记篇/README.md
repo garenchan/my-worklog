@@ -91,6 +91,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 ## 高可用
 
+- [阿里云开源业内首个应用多活项目 AppActive，与社区共建云原生容灾标准](https://developer.aliyun.com/article/858868)
+
 - [阿里云-应用多活技术白皮书](https://developer.aliyun.com/ebook/3?spm=a2c6h.12873639.article-detail.3.1ae47fb8ROYfiC&source=5176.11533457&userCode=b3pdrgck)
 
 - [搞懂异地多活，看这篇就够了](https://mp.weixin.qq.com/s/MtY7r82mRAHIdF-Z4pZlSw)

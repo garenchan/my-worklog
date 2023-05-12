@@ -200,6 +200,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [我，PolarDB云原生数据库，5年来实现这些重磅技术创新](https://developer.aliyun.com/article/1007898?tlog=yuekan_2022)
 
+- [基于InnoDB的物理复制实现](http://mysql.taobao.org/monthly/2016/05/01/)
+
 
 ## Etcd
 

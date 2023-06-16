@@ -300,3 +300,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [深度学习如何入门？](https://www.zhihu.com/question/26006703)
 
 - [利用ChatGPT进行情感分析](https://cloud.tencent.com/developer/article/2255215)
+
+
+## 杂项
+
+- [How to fix stdio buffering](https://www.perkin.org.uk/posts/how-to-fix-stdio-buffering.html)

@@ -241,6 +241,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Facebook’s Tectonic Filesystem: Efficiency from Exascale](https://www.usenix.org/system/files/fast21-pan.pdf)
 
+- [盘点多起疑难磁盘故障的实战经验](https://my.oschina.net/u/4273516/blog/9908581)
+
 
 ## Ignite
 

@@ -66,6 +66,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [蚂蚁集团万级规模K8s集群etcd高可用建设之路](https://developer.aliyun.com/article/786245)
 
+- [Page Cache：为什么我的容器内存使用量总是在临界点?](https://blog.csdn.net/qq_34556414/article/details/121022005)
+
 
 ## eBPF
 

@@ -276,6 +276,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Istio 中实现客户端源 IP 的保持](https://mp.weixin.qq.com/s/-ntUY5leJva3tWCqTb_ecw)
 
+- [如何在 Linux 下使用 TC 优雅的实现网络限流](https://zhuanlan.zhihu.com/p/592897988)
+
 
 ## 文件系统
 

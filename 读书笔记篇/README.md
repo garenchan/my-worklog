@@ -278,6 +278,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [如何在 Linux 下使用 TC 优雅的实现网络限流](https://zhuanlan.zhihu.com/p/592897988)
 
+- [使用 Cilium 给 K8s 数据平面提供强大的带宽管理功能](https://blog.csdn.net/alex_yangchuansheng/article/details/127626140?ydreferer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8%3D)
+
 
 ## 文件系统
 

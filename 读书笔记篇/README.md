@@ -204,6 +204,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [基于InnoDB的物理复制实现](http://mysql.taobao.org/monthly/2016/05/01/)
 
+- [Replication and auto-failover made easy with MySQL Utilities](https://dev.mysql.com/blog-archive/replication-and-auto-failover-made-easy-with-mysql-utilities/)
+
 
 ## Etcd
 

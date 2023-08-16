@@ -206,6 +206,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Replication and auto-failover made easy with MySQL Utilities](https://dev.mysql.com/blog-archive/replication-and-auto-failover-made-easy-with-mysql-utilities/)
 
+- [MySQL Autopilot: Machine Learning–powered automation](https://www.mysql.com/products/mysqlheatwave/autopilot/)
+
 
 ## Etcd
 

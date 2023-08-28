@@ -68,6 +68,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Page Cache：为什么我的容器内存使用量总是在临界点?](https://blog.csdn.net/qq_34556414/article/details/121022005)
 
+- [详解Cgroup V2](https://zorrozou.github.io/docs/%E8%AF%A6%E8%A7%A3Cgroup%20V2.html)
+
 
 ## eBPF
 

@@ -70,6 +70,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [详解Cgroup V2](https://zorrozou.github.io/docs/%E8%AF%A6%E8%A7%A3Cgroup%20V2.html)
 
+- [Linux CGroups v2 IO writeback原理详解](http://static.kancloud.cn/zhangyi8928/kernel/1780636)
+
 
 ## eBPF
 

@@ -20,6 +20,8 @@
 
 - [Apache架构师总结的30条架构原则](https://mp.weixin.qq.com/s/BqyKbFBJ8GXkqd8ZBDeqsQ)
 
+- [业务系统架构实践总结](https://mp.weixin.qq.com/s/pNfC7klCZTKhXwC4t5V7BA)
+
 
 ## 技术
 

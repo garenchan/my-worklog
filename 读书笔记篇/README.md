@@ -257,6 +257,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [盘点多起疑难磁盘故障的实战经验](https://my.oschina.net/u/4273516/blog/9908581)
 
+- [JindoFS概述：云原生的大数据计算存储分离方案](https://developer.aliyun.com/article/720081)
+
 
 ## Ignite
 

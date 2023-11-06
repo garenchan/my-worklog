@@ -259,6 +259,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [JindoFS概述：云原生的大数据计算存储分离方案](https://developer.aliyun.com/article/720081)
 
+- [SPDK Vhost-user如何帮助超融合架构实现I/O存储性能提升](https://www.smartx.com/blog/2022/03/spdk-vhost-user/)
+
 
 ## Ignite
 

@@ -98,6 +98,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Making Gossip More Robust with Lifeguard](https://www.hashicorp.com/blog/making-gossip-more-robust-with-lifeguard)
 
+- [Curp共识协议的重新思考](https://www.infoq.cn/article/qm3july2issyyj6dwmfs)
+
 
 ## 高可用
 

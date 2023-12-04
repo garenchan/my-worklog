@@ -263,6 +263,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [SPDK Vhost-user如何帮助超融合架构实现I/O存储性能提升](https://www.smartx.com/blog/2022/03/spdk-vhost-user/)
 
+- [火山引擎云原生存储加速实践](https://developer.volcengine.com/articles/7296451430440697866#article_title)
+
 
 ## Ignite
 

@@ -333,3 +333,5 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 ## 杂项
 
 - [How to fix stdio buffering](https://www.perkin.org.uk/posts/how-to-fix-stdio-buffering.html)
+
+- [OAuth 2.0 的四种方式](https://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html)

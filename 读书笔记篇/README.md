@@ -309,6 +309,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Linux虚拟文件系统源码分析](https://mickyching.github.io/kernel/linux-vfs-source-annotation.html)
 
+- [FUSE 透传](https://source.android.com/docs/core/storage/fuse-passthrough?hl=zh-cn)
+
 
 ## Linux内核
 

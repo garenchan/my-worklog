@@ -331,6 +331,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [利用ChatGPT进行情感分析](https://cloud.tencent.com/developer/article/2255215)
 
+- [使用基于Embedding的搜索来实现问答](https://www.liaoxuefeng.com/article/1559912572256289)
+
 - [设计AI驱动的搜索引擎：基于语义的问答系统](https://www.liaoxuefeng.com/article/1560547409526817)
 
 

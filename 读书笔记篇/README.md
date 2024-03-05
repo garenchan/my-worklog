@@ -335,6 +335,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [设计AI驱动的搜索引擎：基于语义的问答系统](https://www.liaoxuefeng.com/article/1560547409526817)
 
+- [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
+
 
 ## 杂项
 

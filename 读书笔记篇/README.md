@@ -337,6 +337,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
 
+- [Azure AI Studio模型目录](https://ai.azure.com/explore/models)
+
 
 ## 杂项
 

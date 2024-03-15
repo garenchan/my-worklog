@@ -311,6 +311,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [FUSE 透传](https://source.android.com/docs/core/storage/fuse-passthrough?hl=zh-cn)
 
+- [配置ZRAM，实现Linux下的内存压缩，零成本低开销获得成倍内存扩增](https://segmentfault.com/a/1190000041578292)
+
 
 ## Linux内核
 

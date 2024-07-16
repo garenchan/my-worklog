@@ -342,6 +342,11 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [Azure AI Studio模型目录](https://ai.azure.com/explore/models)
 
 
+## 可观测性
+
+- [智能分析-异常根因定位分析利器](https://help.aliyun.com/zh/sls/user-guide/intelligent-analysis-anomaly-root-cause-location)
+
+
 ## 杂项
 
 - [How to fix stdio buffering](https://www.perkin.org.uk/posts/how-to-fix-stdio-buffering.html)

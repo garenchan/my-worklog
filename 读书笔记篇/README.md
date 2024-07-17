@@ -346,6 +346,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [智能分析-异常根因定位分析利器](https://help.aliyun.com/zh/sls/user-guide/intelligent-analysis-anomaly-root-cause-location)
 
+- [API性能恶化根因分析](https://bbs.huaweicloud.com/blogs/394765#H12)
+
 
 ## 杂项
 

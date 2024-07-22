@@ -345,6 +345,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [GraphRAG: Unlocking LLM discovery on narrative private data](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 
+- [微软开源的GraphRAG爆火，Github Star量破万，生成式AI进入知识图谱时代？](https://www.jiqizhixin.com/articles/2024-07-15-13)
+
 
 ## 可观测性
 

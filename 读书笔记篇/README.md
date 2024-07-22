@@ -343,6 +343,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [Azure AI Studio模型目录](https://ai.azure.com/explore/models)
 
+- [GraphRAG: Unlocking LLM discovery on narrative private data](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
+
 
 ## 可观测性
 

@@ -350,6 +350,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [API性能恶化根因分析](https://bbs.huaweicloud.com/blogs/394765#H12)
 
+- [京东科技全链路故障诊断智能运维实践](https://dbaplus.cn/news-134-5262-1.html)
+
 
 ## 杂项
 

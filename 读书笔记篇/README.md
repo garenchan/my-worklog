@@ -358,6 +358,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [京东科技全链路故障诊断智能运维实践](https://dbaplus.cn/news-134-5262-1.html)
 
+- [清华AIOps新作:蒙特卡洛树搜索定位多维指标异常](https://mp.weixin.qq.com/s/Kj309bzifIv4j80nZbGVZw)
+
 
 ## 杂项
 

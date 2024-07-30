@@ -76,6 +76,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [启用cgroup writeback功能](https://help.aliyun.com/zh/ecs/user-guide/enable-the-cgroup-writeback-feature)
 
+- [使用ztunnel实现Layer 4网络和mTLS](https://istio.io/latest/zh/docs/ambient/usage/ztunnel/)
+
 
 ## eBPF
 

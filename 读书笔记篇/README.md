@@ -183,6 +183,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [淘宝Tengine--易运维的高性能Nginx服务器](http://tengine.taobao.org/download/programmer-201209-Tengine.pdf)
 
+- [蚂蚁单元化解决方案白皮书](http://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/assets/attach/160617/AntCloud_zh/1585895792638/%E8%9A%82%E8%9A%81%E5%8D%95%E5%85%83%E5%8C%96%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
+
 
 ## 运维监控
 

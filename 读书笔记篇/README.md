@@ -289,6 +289,11 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [从gRPC安全设计理解双向证书方案](https://cloud.tencent.com/developer/article/1745268)
 
 
+## CockroachDB
+
+- [SQL in CockroachDB: Mapping table data to key-value storage](https://www.cockroachlabs.com/blog/sql-in-cockroachdb-mapping-table-data-to-key-value-storage/)
+
+
 ## 哈希表
 
 - [Paper Reading：HotRing——哈希冲突中热点数据高效读取方案](https://jiekun.dev/posts/hotring/)

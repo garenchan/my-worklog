@@ -293,6 +293,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [SQL in CockroachDB: Mapping table data to key-value storage](https://www.cockroachlabs.com/blog/sql-in-cockroachdb-mapping-table-data-to-key-value-storage/)
 
+- [Scaling Raft](https://www.cockroachlabs.com/blog/scaling-raft/)
+
 
 ## 哈希表
 

@@ -188,13 +188,6 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [B站 - 7.2我们机房断网了！](https://www.bilibili.com/read/cv36728096/)
 
 
-## 运维监控
-
-- [基于 Prometheus 的云上 MySQL 监控实践](https://www.51cto.com/article/616822.html)
-
-- [Envoy service mesh、Prometheus和Grafana下的微服务监控](https://cloudnative.to/blog/microservices-monitoring-with-envoy-service-mesh-prometheus-grafana/)
-
-
 ## DNS
 
 - [什么是 DNS？](https://www.cloudflare.com/zh-cn/learning/dns/what-is-dns/)
@@ -365,6 +358,10 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 ## 可观测性
 
+- [基于 Prometheus 的云上 MySQL 监控实践](https://www.51cto.com/article/616822.html)
+
+- [Envoy service mesh、Prometheus和Grafana下的微服务监控](https://cloudnative.to/blog/microservices-monitoring-with-envoy-service-mesh-prometheus-grafana/)
+
 - [智能分析-异常根因定位分析利器](https://help.aliyun.com/zh/sls/user-guide/intelligent-analysis-anomaly-root-cause-location)
 
 - [API性能恶化根因分析](https://bbs.huaweicloud.com/blogs/394765#H12)
@@ -372,6 +369,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 - [京东科技全链路故障诊断智能运维实践](https://dbaplus.cn/news-134-5262-1.html)
 
 - [清华AIOps新作:蒙特卡洛树搜索定位多维指标异常](https://mp.weixin.qq.com/s/Kj309bzifIv4j80nZbGVZw)
+
+- [eBPF是实现可观测性的关键技术](https://deepflow.io/zh/ebpf-the-key-technology-to-observability/)
 
 
 ## 杂项

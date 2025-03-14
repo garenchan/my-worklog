@@ -264,6 +264,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [火山引擎云原生存储加速实践](https://developer.volcengine.com/articles/7296451430440697866#article_title)
 
+- [XSKY CTO 深度揭秘：DeepSeek 3FS 如何定义端到端无缓存的存储新范式](https://mp.weixin.qq.com/s/RcSDMQJoHVQzw9oiSx-Shw)
+
 
 ## Ignite
 

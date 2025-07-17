@@ -374,6 +374,8 @@ Google’s Data Infrastructure for Ads](https://storage.googleapis.com/pub-tools
 
 - [eBPF是实现可观测性的关键技术](https://deepflow.io/zh/ebpf-the-key-technology-to-observability/)
 
+- [用户空间eBPF运行时：深度解析与应用实践](https://eunomia.dev/zh/blogs/userspace-ebpf/)
+
 
 ## 杂项
 
